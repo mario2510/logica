@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63a98033-4cbf-4686-9a9e-a314b984001c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1clgL0zZBsm3yYGkTxEhz3FG9RW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Principal">
+    <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Principal" />
+      <module name="CorrecaoNadador" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NatacaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CorrecaoNadador" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NatacaoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Principal" />
+        <item itemvalue="JUnit.NatacaoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63a98033-4cbf-4686-9a9e-a314b984001c" name="Default Changelist" comment="" />
+      <created>1591108533713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591108533713</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="109" key="#com.intellij.ide.util.MemberChooser" timestamp="1591108857087">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state x="395" y="109" key="#com.intellij.ide.util.MemberChooser/0.23.1280.720@0.23.1280.720" timestamp="1591108857087" />
+    <state width="1123" height="123" key="GridCell.Tab.0.bottom" timestamp="1591109467210">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state width="1123" height="123" key="GridCell.Tab.0.bottom/0.23.1280.720@0.23.1280.720" timestamp="1591109467210" />
+    <state width="1123" height="123" key="GridCell.Tab.0.center" timestamp="1591109467209">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state width="1123" height="123" key="GridCell.Tab.0.center/0.23.1280.720@0.23.1280.720" timestamp="1591109467209" />
+    <state width="1123" height="123" key="GridCell.Tab.0.left" timestamp="1591109467207">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state width="1123" height="123" key="GridCell.Tab.0.left/0.23.1280.720@0.23.1280.720" timestamp="1591109467207" />
+    <state width="1123" height="123" key="GridCell.Tab.0.right" timestamp="1591109467210">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state width="1123" height="123" key="GridCell.Tab.0.right/0.23.1280.720@0.23.1280.720" timestamp="1591109467210" />
+    <state x="361" y="120" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1591109068994">
+      <screen x="0" y="23" width="1280" height="720" />
+    </state>
+    <state x="361" y="120" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1280.720@0.23.1280.720" timestamp="1591109068994" />
+  </component>
+</project>
